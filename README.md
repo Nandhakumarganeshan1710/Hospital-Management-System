@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:212225040272
+# Reg No: 212225040272
 # Name: NANDHAKUMAR G
-# Date:19.11.2026
+# Date: 19.11.2026
 
 
 # AIM:
@@ -30,6 +30,9 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -39,11 +42,9 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-<img width="1920" height="1080" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/2f322e56-130f-4daf-b97e-48803ddb5e32" />
 
 
-
-
+<img width="816" height="653" alt="Screenshot 2026-08-24 at 9 27 36 PM" src="https://github.com/user-attachments/assets/248e84a8-d827-4b57-81ae-44e8a006e29c" />
 
 
 
@@ -61,19 +62,17 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
-<img width="1037" height="692" alt="Screenshot 2026-08-30 153604" src="https://github.com/user-attachments/assets/20b12ef2-f572-43a3-a801-c21405d3de91" />
+
+<img width="820" height="589" alt="Screenshot 2026-08-24 at 9 28 19 PM" src="https://github.com/user-attachments/assets/cc373430-f75b-486e-b16a-c28696eb5213" />
 
 
-
-
-# COMMUNICTION DIAGRAM:
+# COMMUNICATION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
-<img width="1043" height="548" alt="Screenshot 2026-08-30 153616" src="https://github.com/user-attachments/assets/acdd1065-7d0a-41c9-a7d0-41106499fbb2" />
 
-
+<img width="831" height="557" alt="Screenshot 2026-08-24 at 9 28 55 PM" src="https://github.com/user-attachments/assets/8ff8faf1-a4f4-4bd3-979f-b32bb2beed4f" />
 
 
 
@@ -84,9 +83,8 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
-<img width="1037" height="547" alt="Screenshot 2026-08-30 153631" src="https://github.com/user-attachments/assets/919612e8-b8f1-40e1-b9eb-3d7540ff11d1" />
 
-
+<img width="805" height="544" alt="Screenshot 2026-08-24 at 9 29 21 PM" src="https://github.com/user-attachments/assets/18a06702-ebfe-4264-971e-4b5531519e25" />
 
 
 
@@ -105,8 +103,8 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
-<img width="1041" height="547" alt="Screenshot 2026-08-30 153648" src="https://github.com/user-attachments/assets/c78cc830-8e30-452c-a641-b764bd82916a" />
 
+<img width="612" height="775" alt="Screenshot 2026-08-24 at 9 31 25 PM" src="https://github.com/user-attachments/assets/1b3144c2-365c-4c8d-b59d-3dbcfc6be650" />
 
 
 
@@ -127,10 +125,9 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-<img width="1041" height="552" alt="Screenshot 2026-08-30 153712" src="https://github.com/user-attachments/assets/4d4d3d34-e562-49a9-97e4-a74ce1f02427" />
 
 
-
+<img width="839" height="706" alt="Screenshot 2026-08-24 at 9 29 52 PM" src="https://github.com/user-attachments/assets/84e0c041-fe83-4ac6-8b0c-ca1d65d9bca6" />
 
 
 
